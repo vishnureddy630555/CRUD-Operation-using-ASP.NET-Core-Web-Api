@@ -1,0 +1,13 @@
+C:\Users\Bodireddy Vishnu\Documents\ProjectWeb.Api\Student.Domain\bin\Debug\net10.0\Student.Domain.deps.json
+C:\Users\Bodireddy Vishnu\Documents\ProjectWeb.Api\Student.Domain\bin\Debug\net10.0\Student.Domain.dll
+C:\Users\Bodireddy Vishnu\Documents\ProjectWeb.Api\Student.Domain\bin\Debug\net10.0\Student.Domain.pdb
+C:\Users\Bodireddy Vishnu\Documents\ProjectWeb.Api\Student.Domain\obj\Debug\net10.0\Student.Domain.csproj.AssemblyReference.cache
+C:\Users\Bodireddy Vishnu\Documents\ProjectWeb.Api\Student.Domain\obj\Debug\net10.0\Student.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bodireddy Vishnu\Documents\ProjectWeb.Api\Student.Domain\obj\Debug\net10.0\Student.Domain.AssemblyInfoInputs.cache
+C:\Users\Bodireddy Vishnu\Documents\ProjectWeb.Api\Student.Domain\obj\Debug\net10.0\Student.Domain.AssemblyInfo.cs
+C:\Users\Bodireddy Vishnu\Documents\ProjectWeb.Api\Student.Domain\obj\Debug\net10.0\Student.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Bodireddy Vishnu\Documents\ProjectWeb.Api\Student.Domain\obj\Debug\net10.0\Student.Domain.dll
+C:\Users\Bodireddy Vishnu\Documents\ProjectWeb.Api\Student.Domain\obj\Debug\net10.0\refint\Student.Domain.dll
+C:\Users\Bodireddy Vishnu\Documents\ProjectWeb.Api\Student.Domain\obj\Debug\net10.0\Student.Domain.pdb
+C:\Users\Bodireddy Vishnu\Documents\ProjectWeb.Api\Student.Domain\obj\Debug\net10.0\ref\Student.Domain.dll
+C:\Users\Bodireddy Vishnu\Documents\ProjectWeb.Api\Student.Domain\obj\Debug\net10.0\Student..4E50E9BD.Up2Date
