@@ -24,5 +24,10 @@ namespace Student.Application.Service
         {
             return await context.AddStudent(details);
         }
+
+        public async Task<StudentDetails> GetStudentWithId(int id)
+        {
+            return await context.GetStudentById(id);
+        }
     }
 }

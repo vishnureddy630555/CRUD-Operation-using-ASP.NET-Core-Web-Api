@@ -10,5 +10,6 @@ namespace Student.Application.StudentInterface
     {
         public Task<List<StudentRequestDto>> GetAllStudent();
         Task<string> AddStudentNew(StudentDetails details);
+        Task<StudentDetails> GetStudentWithId(int id);
     }
 }

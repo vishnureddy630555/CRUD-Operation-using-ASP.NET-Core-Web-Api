@@ -38,6 +38,18 @@ public class StudentController : ControllerBase
         return Ok(result);
     }
 
+    [HttpGet("{id:int}")]
+    public async Task<IActionResult> GetStudentById(int id)
+    {
+        var result = await context.GetStudentWithId(id);
+        if (result == null)
+        {
+            return StatusCode(404);
+        }
+        return Ok(result);
+    }
+
+
     [HttpPost]
     public async Task<IActionResult> AddNewStudent([FromBody] StudentDetails details)
     {
